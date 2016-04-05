@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"JsFormat",
+		"JSHint",
+		"LESS",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Terminal"
+	]
+}
